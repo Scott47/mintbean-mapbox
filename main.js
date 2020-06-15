@@ -9,8 +9,8 @@ var map = new mapboxgl.Map({
 
 
   style: 'mapbox://styles/atomicno47/ckbgqpw5z0nin1io16h47uk2c',
-  center: [-77.04, 38.907],
-  zoom: 14
+  center: [-86.767960, 36.174465 ],
+  zoom: 11
 });
 
 
@@ -20,5 +20,4 @@ accessToken: mapboxgl.accessToken,
 mapboxgl: mapboxgl
 })
 );
-
 
